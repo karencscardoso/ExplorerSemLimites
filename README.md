@@ -3,7 +3,7 @@
 
 ![App Screenshot](https://imgur.com/S8USdqh.png)
 
-# Blog Gatos
+# Explorer sem Limites
 
 **::Projeto feito pós aula da ROCKETSEAT::**
 
